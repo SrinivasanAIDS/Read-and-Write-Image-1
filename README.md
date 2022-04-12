@@ -79,29 +79,32 @@ destroyAllWindows()
 ## Output:
 
 ### i) Read and display the image
-![output](./static/img/Ot1.png)
+![Screenshot 2022-04-12 193802](https://user-images.githubusercontent.com/103049243/162981244-3c9166d5-162b-4d80-ac96-22fff9b3bba8.png)
 <br>
 <br>
 
 ### ii)Write the image
-![output](./static/img/Ot2.png)
+![Screenshot 2022-04-12 193923](https://user-images.githubusercontent.com/103049243/162981433-01c0bd48-e2b5-452c-8f43-c515704c5256.png)
 <br>
 <br>
 
 ### iii)Shape of the Image
-![output](./static/img/Ot3.png)
-<br>
+
+<br>![Screenshot 2022-04-12 194046](https://user-images.githubusercontent.com/103049243/162981717-3e7fab2f-9dc6-451b-9405-ea74968d915e.png)
+
 <br>
 
 ### iv)Access rows and columns
-![output](./static/img/Ot4.png)
+![Screenshot 2022-04-12 194153](https://user-images.githubusercontent.com/103049243/162981955-70d14e67-893b-4617-a0d9-08033b24d902.png)
 <br>
 <br>
 
 ### v)Cut and paste portion of image
-![output](./static/img/Ot5.png)
+![Screenshot 2022-04-12 194255](https://user-images.githubusercontent.com/103049243/162984055-67865230-d7e0-4a2d-b2c3-980343eed9f1.png)
 <br>
 <br>
 
+
 ## Result:
+
 Thus the images are read, displayed, and written successfully using the python program.
